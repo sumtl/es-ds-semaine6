@@ -1,0 +1,7 @@
+node_modules/
+package-lock.json
+dossier/fichier1.txt
+test.js
+*.log
+.env  
+/rep-test/

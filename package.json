@@ -1,0 +1,17 @@
+{
+  "name": "week6",
+  "version": "1.0.0",
+  "description": "cours de la week6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "week6",
+    "semaine6",
+    "git",
+    "npm"
+  ],
+  "author": "wansu",
+  "license": "ISC"
+}
